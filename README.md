@@ -239,7 +239,15 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - ✅ **Rate Limiting** - Prevent abuse
 - ✅ **Input Validation** - Sanitize all inputs
 
-**Report security issues**: security@launchonlos.fun
+### **Report Security Vulnerabilities**
+
+**Responsible Disclosure:**
+- 📧 **Email**: support@launchonlos.fun
+- 🐦 **Twitter**: [@EWildn](https://twitter.com/EWildn)
+- 📱 **Telegram**: [t.me/Dubie_420](https://t.me/Dubie_420)
+
+**Response Time:** Within 24 hours  
+**Full Policy**: [SECURITY.md](SECURITY.md)
 
 ---
 

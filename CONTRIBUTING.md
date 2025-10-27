@@ -307,9 +307,10 @@ Common errors and solutions
 ## 💬 Community
 
 ### **Getting Help**
-- 💬 **Discord**: Ask questions
-- 🐦 **Twitter**: Follow updates
-- 📧 **Email**: hello@launchonlos.fun
+- 📧 **Email**: support@launchonlos.fun
+- 🐦 **Twitter**: [@EWildn](https://twitter.com/EWildn)
+- 📱 **Telegram**: [t.me/Dubie_420](https://t.me/Dubie_420)
+- 💬 **Discord**: [Join Community](https://discord.gg/analos)
 
 ### **Code of Conduct**
 Please read our [Code of Conduct](CODE_OF_CONDUCT.md). Be respectful and constructive.
@@ -334,7 +335,12 @@ By contributing, you agree that your contributions will be licensed under the MI
 
 ## ❓ Questions?
 
-Don't hesitate to ask! Open an issue with the `question` label or reach out on Discord.
+Don't hesitate to ask!
+
+- Open an issue with the `question` label
+- Email: support@launchonlos.fun
+- Twitter: [@EWildn](https://twitter.com/EWildn)
+- Telegram: [t.me/Dubie_420](https://t.me/Dubie_420)
 
 ---
 
