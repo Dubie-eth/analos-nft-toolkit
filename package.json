@@ -1,0 +1,31 @@
+{
+  "name": "analos-nft-toolkit",
+  "version": "1.0.0",
+  "description": "Open-source tools and utilities for building NFT projects on the Analos blockchain",
+  "keywords": [
+    "analos",
+    "nft",
+    "solana",
+    "blockchain",
+    "web3",
+    "metaplex",
+    "ipfs",
+    "arweave"
+  ],
+  "author": "Launch on LOS",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dubie-eth/analos-nft-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dubie-eth/analos-nft-toolkit/issues"
+  },
+  "homepage": "https://github.com/Dubie-eth/analos-nft-toolkit#readme",
+  "scripts": {
+    "test": "echo \"No tests yet - contributions welcome!\" && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
+
